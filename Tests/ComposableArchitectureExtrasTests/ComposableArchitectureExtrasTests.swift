@@ -1,5 +1,5 @@
 import XCTest
-@testable import swift_composable_architecture_extras
+@testable import ComposableArchitectureExtras
 
 final class swift_composable_architecture_extrasTests: XCTestCase {
     func testExample() throws {
